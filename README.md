@@ -3,7 +3,7 @@
 Ok cette fois c’est la bonne ! J’ai gardé ma génération creuse pour des questions d’efficacité mais mon flag est bien protégé ! N’est-ce pas ?
 
 
-Auteurs : Maxime / [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : Maxime / [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [AdveRSArial Crypto (Kiddo)](https://hackropole.fr/fr/challenges/crypto/fcsc2024-crypto-adversarial-crypto-3/)
 
